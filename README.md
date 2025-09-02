@@ -73,3 +73,6 @@ is installed then run `make docker`.
 
 ## Build mock files
 `make mock`
+
+
+<!-- Security scan triggered at 2025-09-02 14:29:14 -->
